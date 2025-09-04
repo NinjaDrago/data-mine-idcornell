@@ -23,7 +23,9 @@ The purpose of this project is to demonstrate how to **automatically collect and
 Make sure you have Python 3 installed, along with `requests` and `pandas`:
 
 ```bash```
-pip install requests pandas 
+pip install requests 
+pip install pandas 
+
 ### 2. Download Data
 ```bash```
 python get_data.py

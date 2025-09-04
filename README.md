@@ -24,9 +24,10 @@ Make sure you have Python 3 installed, along with `requests` and `pandas`:
 
 ```bash
 pip install requests pandas
-
+---
 ### 2. Download Data
 python get_data.py
-
+---
 ### 3. Analyze Data
 python analyze.py
+---
